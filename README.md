@@ -4,8 +4,7 @@
 Surface code fault injection simulation for Secure Quantum Computing - Spring 2026.
 
 ## Project Goal
-Tasked with individually developing simulations of a quantum circuit and inject various faults to more concretely determine
-potential limitations of typical surface codes.
+Tasked with individually developing **Python**-based simulations of a quantum circuit and inject various faults to more concretely determine potential weaknesses of a distance-3 rotated surface code. 
 
 ## Context
 A surface code is an arrangement of supplementary, or ancilla qubits used as result validators for data qubits. These ancilla qubits form
